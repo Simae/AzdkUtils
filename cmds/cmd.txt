@@ -1,0 +1,1 @@
+pascatgen ./catalogs/geo_r --nbcnt=8 --compcnt=5 --nbrho=14.0 --maxmag=6.1 --pasmag=5.5 --pdmin=0.5 --pdmax=7.0 --dfac=61705.66 --mcpath=catalogs/geo_t.cat -raptdi

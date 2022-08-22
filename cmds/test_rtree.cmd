@@ -1,0 +1,1 @@
+@start ..\FeatureTest.exe -p --cat=D:\Users\Simae\Work\data\all_catalogs\g1.c3.cat --rtree=D:\Users\Simae\Work\data\all_catalogs\g1.c3.rtree 6
